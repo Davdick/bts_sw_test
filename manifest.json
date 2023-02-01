@@ -1,0 +1,127 @@
+{
+    "name": "PAG DE LOS BTS",
+    "short_name": "BTS",
+    "theme_color": "#170225",
+    "background_color": "#ffffff",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "./images/banner bts.jpg",
+            "type": "image/jpg",
+            "sizes": "1080x360"
+        },
+        {
+            "src": "./images/bts frase.jpg",
+            "type": "image/jpg",
+            "sizes": "1200x747"
+        },
+        {
+            "src": "./images/bts jin.jpg",
+            "type": "image/jpg",
+            "sizes": "720x720"
+        },
+        {
+            "src": "./images/bts junkok.jpg",
+            "type": "image/jpg",
+            "sizes": "720x720"
+        },
+        {
+            "src": "./images/bts love 2.jpg",
+            "type": "image/jpg",
+            "sizes": "2048x1365"
+        },
+        {
+            "src": "./images/banner bts.jpg",
+            "type": "image/png",
+            "sizes": "1080x360"
+        },
+        {
+            "src": "./images/bts jimin.jfif",
+            "type": "image/jfif",
+            "sizes": "80x80"
+        },
+        {
+            "src": "./images/bts love 1.jfif",
+            "type": "image/jfif",
+            "sizes": "275x183"
+        },
+        {
+            "src": "./images/Bts map 7.jpg",
+            "type": "image/jpg",
+            "sizes": "2000x1270"
+        },
+        {
+            "src": "./images/banner bts.jpg",
+            "type": "image/png",
+            "sizes": "1080x360"
+        },
+        {
+            "src": "./images/bts Rm.jpg",
+            "type": "image/jpg",
+            "sizes": "720x720"
+        },
+        {
+            "src": "./images/bts suga.jpg",
+            "type": "image/jpg",
+            "sizes": "720x720"
+        },
+        {
+            "src": "./images/bts v.jpg",
+            "type": "image/jpg",
+            "sizes": "720x720"
+        },
+        {
+            "src": "./images/BtsImagen1.png",
+            "type": "image/png",
+            "sizes": "1200x800"
+        },
+        {
+            "src": "./images/left-black-arrow.png",
+            "type": "image/png",
+            "sizes": "35x35"
+        },
+        {
+            "src": "./images/LogoBts.png",
+            "type": "image/png",
+            "sizes": "676x1200"
+        },
+        {
+            "src": "./images/logoBts1.jpg",
+            "type": "image/jpg",
+            "sizes": "550x739"
+        },
+        {
+            "src": "./images/logoBts2.png",
+            "type": "image/png",
+            "sizes": "676x1200"
+        },
+        {
+            "src": "./images/menu.png",
+            "type": "image/png",
+            "sizes": "100x100"
+        },
+        {
+            "src": "./images/logoBts3.jpg",
+            "type": "image/jpg",
+            "sizes": "57x50"
+        },
+        {
+            "src": "./images/next.png",
+            "type": "image/png",
+            "sizes": "15x13"
+        },
+        {
+            "src": "./images/prev.png",
+            "type": "image/png",
+            "sizes": "15x13"
+        },
+        {
+            "src": "./images/right-black-arrow.png",
+            "type": "image/png",
+            "sizes": "35x35"
+        }
+    ]
+}
